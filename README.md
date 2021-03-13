@@ -14,4 +14,4 @@ We conceived the full attention strategy to maximize the feature selection. This
  - Validation [DOC] => data and results for crack image segmentation
  
  
- [1] http://www.schm.org.cn/#/IPC-SHM,2020
+ [1]:http://www.schm.org.cn/#/IPC-SHM,2020
