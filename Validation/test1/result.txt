@@ -1,0 +1,7 @@
+test1
+---
+epoche = 16
+batch size = 4
+learning rate = 1e-9
+---
+mIoU = 49.312%
