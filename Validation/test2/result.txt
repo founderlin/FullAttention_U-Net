@@ -1,7 +1,0 @@
-test2
----
-epoche = 15
-batch size = 2
-learning rate = 5e-10
----
-miou 46.378%
