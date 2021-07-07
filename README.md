@@ -6,13 +6,8 @@ We conceived the full attention strategy to maximize the feature selection. This
 
 Thie related paper (pre-print) is uploaded in research gate [2], since the proceeding is not officially published.
 
-## Ducument strcture
- - train.ipynb  => train models
- - predict.ipynb => image segmentation
- - evaluate.ipynb => caluate IoU and mIoU
- - Models [DOC] => *.py files
- - Verification [DOC] => data for cell image segmentation 
- - Validation [DOC] => data and results for crack image segmentation
+## Traning data source:
+https://github.com/Jack-Cherish/Deep-Learning/tree/master/Pytorch-Seg/lesson-2/data
  
  
  [1]:http://www.schm.org.cn/#/IPC-SHM,2020
