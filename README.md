@@ -6,7 +6,7 @@ We conceived the full attention strategy to maximize the feature selection. This
 
 Thie related paper (pre-print) is uploaded in research gate [2], since the proceeding is not officially published.
 
-## Traning data source:
+## Training data source:
 https://github.com/Jack-Cherish/Deep-Learning/tree/master/Pytorch-Seg/lesson-2/data
  
  
